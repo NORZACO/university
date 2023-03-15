@@ -1,5 +1,5 @@
 
-
+GRAND ALL PRIVILEGES
 
 INSERT INTO Schools (Name, Address, Description)
 Values ('Hogwart', 'Highlands', 'School for Wizards');
